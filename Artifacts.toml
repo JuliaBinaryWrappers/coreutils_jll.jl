@@ -1,128 +1,128 @@
 [[coreutils]]
 arch = "aarch64"
-git-tree-sha1 = "6cf638321ba990b6a29f3dce54292b4cb78af575"
+git-tree-sha1 = "661a8995dbf09e71f90cb7bc9e95124a690477e7"
 libc = "glibc"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "2cb8c8786933eb7aa55638f9107d7d08ed3808dd695036e30ee466edb697f64a"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "f377052ba5b14809bbebdd2c220415f1e5944b318dfcfc14d92d7dfd58fdc41d"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.aarch64-linux-gnu.tar.gz"
 [[coreutils]]
 arch = "aarch64"
-git-tree-sha1 = "78a2801f3c89d542b69cd034d2896f6b5d43aca6"
+git-tree-sha1 = "820abef411f5c1f612ac4ec9123db77304413c4c"
 libc = "musl"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "6857da8d13dd4afda2b1659317adf7671de089dc6d989623b06aa65c914520f0"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.aarch64-linux-musl.tar.gz"
+    sha256 = "9e360c99a623b26f865b55b5b4f8ca42d59fa9a5257e7482390c2b8d279a2cea"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.aarch64-linux-musl.tar.gz"
 [[coreutils]]
 arch = "aarch64"
-git-tree-sha1 = "dbcbf7c3cbc07530153b41317e25294c7f7bb21d"
+git-tree-sha1 = "25f3d4302dcbeee8b280c59d00f399a387536f05"
 os = "freebsd"
 
     [[coreutils.download]]
-    sha256 = "39e70d56c397e05635940b67d30d6d7e3cff78ba554646c55d21ea40d0ba0b83"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "1516147f680ae352a51e6737363a32df7f235476423cb433d66349978f86e842"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.aarch64-unknown-freebsd.tar.gz"
 [[coreutils]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c5ac93fc45cb8c0c5663420408d060eccb71eb51"
+git-tree-sha1 = "8f620f4be9591fda3af7e115f20cd329afd1a527"
 libc = "glibc"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "0e913e35f172e1550c68469aec1ded2ffdc028eee94bbaf3e7c9e09f1b78f2b8"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "f560777ac589750cd02d51b240284f9757bb2514d0fe25fd99ba591cef79c7c1"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.armv6l-linux-gnueabihf.tar.gz"
 [[coreutils]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fd2f71b87278a3cfbc95396d2751591bbbe2237e"
+git-tree-sha1 = "0ff74d72f544a5e6b03cc860973e59024725c568"
 libc = "musl"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "ba95652ec7ee2a3ddc7c66d7b43dc0422a699a825373632e445eaf204151edc2"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "853760d021f60f15d2cd4d93dff9d6edd99c3b93c7eaee978983f21f0e486a1d"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.armv6l-linux-musleabihf.tar.gz"
 [[coreutils]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "220c89b3677160855cc86dcc6214faffeac09d47"
+git-tree-sha1 = "8e631c3d6df0e707377e920cd8283b809e64d133"
 libc = "glibc"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "564fb09b1f4ddcf3277f9df415c9e517e2df964c038903f75dbe544712c3fdad"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "b65b4478dcf5ed7b1554fdd6bb8d384f271042e10c33989f2653d5201b28ebd3"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.armv7l-linux-gnueabihf.tar.gz"
 [[coreutils]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a013240c2eab5c2c3e31c8a5a01fcfbfcb28249e"
+git-tree-sha1 = "010085d776c8e50327ad6a9644855db7e22e4659"
 libc = "musl"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "972fc63091a8233f3ccd3d5967d7e1dc82f3aba7566a11ddcbe42b8023d5b2c4"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "962ffb777c81d81ecc430e1c331fdbbc94ea93b5072e82e597a00fdae0e90930"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.armv7l-linux-musleabihf.tar.gz"
 [[coreutils]]
 arch = "i686"
-git-tree-sha1 = "5ba11d18c5b5dd23dafb5bd29eacadde58083af5"
+git-tree-sha1 = "44ad1ed8c78604f4756a81f8a8ce1e3622c1f5f9"
 libc = "glibc"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "1f8ff69b3017bd71d017acc281b6a44cb91c16287356fc3cb2839e5a66b9ee9e"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.i686-linux-gnu.tar.gz"
+    sha256 = "6edfcb77af01a78364a53cc70633b5ab79294a07e7a0072372da7ab8274324a3"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.i686-linux-gnu.tar.gz"
 [[coreutils]]
 arch = "i686"
-git-tree-sha1 = "b200fd1ff1951c6f7cdc9726bbafeb90ee3d7654"
+git-tree-sha1 = "c873909896a11f52c18f9b3ba0c6335f807e63ea"
 libc = "musl"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "42ddf2dbcf9dea02467ea5dae3f88c1dd68c8d55cd89e63d0abe5e1731b4cf2d"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.i686-linux-musl.tar.gz"
+    sha256 = "0b8d9eb0de9c9e2d49cbd73201b4451aa51dea1f22860024cdb4dbe5366fa441"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.i686-linux-musl.tar.gz"
 [[coreutils]]
 arch = "powerpc64le"
-git-tree-sha1 = "3ce962c24751e742ea166395be71bfabd7ddbf71"
+git-tree-sha1 = "9281d6361ba2863245dfb885251dc744c200038b"
 libc = "glibc"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "fde3b7ffe00839eec43ecaef07cb6fb0b6560928487d001de1f1d5e3bd4f8d7b"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "2ca6df7f5a7f7786932add79101bc4b487fa3bee7aa46a8ffc2bae540b7750db"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.powerpc64le-linux-gnu.tar.gz"
 [[coreutils]]
 arch = "riscv64"
-git-tree-sha1 = "e3ca2595076abef185255df381e2433e26a17b1e"
+git-tree-sha1 = "1074d2d61d3ec76882ebd3db291b6f36d453dbd0"
 libc = "glibc"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "ed1b77a6ce8ae1bc1b50b489f67ec2ee58954f3fc81b646cf0735ada1110e091"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "06bce3b1e73581f11f632783d5d494ea9f2d9df2106e35334a104e6173062f79"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.riscv64-linux-gnu.tar.gz"
 [[coreutils]]
 arch = "x86_64"
-git-tree-sha1 = "f344e60be5d108f397df8b7c4e4e9381a0f2a14a"
+git-tree-sha1 = "14e0adec936ef0556f44198d5f187f8f3a24908a"
 libc = "glibc"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "adb05391278ebfeecbb23fac5177355ec6f0ae9fe5d0aae92e7cb44ce19481f8"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "2b1e9dbc30d4f5dc9508557e336c86403f287311e0660cdaaa397cab21563c5c"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.x86_64-linux-gnu.tar.gz"
 [[coreutils]]
 arch = "x86_64"
-git-tree-sha1 = "ec04474a7d3cd4dfbf24d188de449eaf80a768e1"
+git-tree-sha1 = "4981dab41c1aa8e629299539caab77806d291739"
 libc = "musl"
 os = "linux"
 
     [[coreutils.download]]
-    sha256 = "8c098c92816e04193cac3ab04359dfc655a56cb32fa4f643b790c99adbd52398"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.x86_64-linux-musl.tar.gz"
+    sha256 = "3fb6339341f4157cbe8465c80dc55b25d51a4fbc05980c341b2f4fd45c185211"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.x86_64-linux-musl.tar.gz"
 [[coreutils]]
 arch = "x86_64"
-git-tree-sha1 = "42449f8c065da6c64b0cb363d5fc981c31a27ffe"
+git-tree-sha1 = "bd944e59821e4df8ca2afc9659e1010cc0bc0e83"
 os = "freebsd"
 
     [[coreutils.download]]
-    sha256 = "32e380ad88b72c2b65f46f61b56a7793958c4be2fc508ecd9f7e5752e436b6b2"
-    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.7.0+0/coreutils.v9.7.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "769349f3397f6c81e466a21e453981fbbde3e26a4af3eb8cafad3192f14f8314"
+    url = "https://github.com/JuliaBinaryWrappers/coreutils_jll.jl/releases/download/coreutils-v9.9.0+0/coreutils.v9.9.0.x86_64-unknown-freebsd.tar.gz"
